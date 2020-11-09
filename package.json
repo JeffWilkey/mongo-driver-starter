@@ -1,0 +1,21 @@
+{
+  "name": "mongo-driver-script",
+  "version": "1.0.0",
+  "description": "Starter for scripts using mongo driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starter",
+    "script",
+    "mongo",
+    "node"
+  ],
+  "author": "Jeff Wilkey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3"
+  }
+}
